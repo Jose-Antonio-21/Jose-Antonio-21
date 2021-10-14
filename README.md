@@ -2,7 +2,7 @@
 
 Me gusta 🎮 con 💻
 
-Pero no me gusta ✍️ 👎😪
+Pero no me gusta ✍️ porque es 👎😪
 <!--
 **Jose-Antonio-21/Jose-Antonio-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
