@@ -1,6 +1,8 @@
 ### Hola soy Jose Antonio 👋
 
-Me gusta 🎮 con 💻
+Soy muy __**español**__
+
+Me gusta jugar con 💻
 
 Pero no me gusta ✍️ porque es 👎😪
 <!--
